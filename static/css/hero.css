@@ -1,0 +1,67 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F87C9;
+}
+
+.p-title{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Press Start 2P", system-ui;
+    color: #F4E1C1;
+}
+
+select{
+    width: 300px;
+    height: 75px;
+    border-radius: 25px;
+    background-color: orange;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 170px;
+    color: brown;
+    gap: 10px;
+    font-family: "Press Start 2P", system-ui;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 270px;
+}
+
+button{
+height: 75px;
+    border-radius: 25px;
+    background-color: orange;
+    font-size: 24px;
+    font-weight: bold;
+    color: brown;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-family: "Press Start 2P", system-ui;
+}
+
+.p-text{
+    font-family: "Press Start 2P", system-ui;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.joke-text {
+    color: #F4E1C1;
+    max-width: 800px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
